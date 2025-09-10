@@ -19,7 +19,7 @@ function App() {
   return (
     <div style={{ padding: "32px", fontFamily: "Arial, sans-serif" }}>
       <h1 style={{ textAlign: "center" }}>Productos</h1>
-      <h3 style={{ textAlign: "center" }}> By Jose Marin, Kenny Marin y Camila Marin</h3>
+      <h3 style={{ textAlign: "center" }}> This is america</h3>
       {loading ? (
         <p style={{ textAlign: "center" }}>Cargando productos...</p>
       ) : (
